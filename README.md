@@ -5,6 +5,7 @@
 > "Mechatronic engineer with interest in robotics, artificial intelligence, control and web development"
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alejotoro-o)
+
 ![GitHub alejotoro-o's stars](https://img.shields.io/github/stars/alejotoro-o)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbnRu3bIi7dvjurI7K0zOiA)
   
