@@ -1,16 +1,20 @@
+<div align="center">
+  
 ## Hi there 👋
 
-<!--
-**alejotoro-o/alejotoro-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alejandro Toro Ossaba
 
-Here are some ideas to get you started:
+> "Mechatronic engineer with interest in robotics, artificial intelligence, control and web development"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alejotoro-o)
+![GitHub alejotoro-o's stars](https://img.shields.io/github/stars/alejotoro-o)
+  
+</div>
+
+---
+
+### About me
+
+I am a Mechatronic Engineer with an M.Sc. in Engineering, specializing in intelligent systems and automation. I am passionate about research in robotics, artificial intelligence, and control systems. In addition to this research, I'm also passionate about web development.
+
+Throughout my career, I’ve contributed to diverse research projects, from designing control systems and applying machine learning to soft robotics, to developing bioinspired prosthetics and exoskeletons. Currently, I’m exploring control laws for multi-agent systems, aiming to enhance coordination and autonomy in distributed robotic networks.
